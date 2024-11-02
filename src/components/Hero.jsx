@@ -18,8 +18,13 @@ function Hero() {
         <p className="text-lg md:text-xl lg:text-2xl max-w-2xl mx-auto text-yellow-300">
           A frontend developer passionate about crafting engaging and interactive digital experiences.
         </p>
-        <button className="mt-8 px-6 py-3 bg-yellow-500 text-black font-semibold rounded-lg hover:bg-yellow-600 transition duration-300">
-          View My Work
+        
+        
+        <button
+          onClick={() => window.location.href = '/certifications'} // Replace with the actual certification page path
+          className="mt-4 px-6 py-3 bg-yellow-500 text-black font-semibold rounded-lg hover:bg-yellow-600 transition duration-300"
+        >
+          View My Certifications
         </button>
       </div>
     </section>

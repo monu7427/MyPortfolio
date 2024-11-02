@@ -15,13 +15,13 @@ function Contact() {
           {/* Phone Number */}
           <div className="flex items-center space-x-4 text-xl">
             <FaPhoneAlt className="text-yellow-500" size="1.5em" />
-            <span className="text-gray-200">+91 9876543210</span>
+            <span className="text-gray-200">+91 7427895985</span>
           </div>
 
           {/* Email Address */}
           <div className="flex items-center space-x-4 text-xl">
             <FaEnvelope className="text-yellow-500" size="1.5em" />
-            <span className="text-gray-200">manoj.sharma@example.com</span>
+            <span className="text-gray-200">monusharma078607@gmail.com</span>
           </div>
 
           {/* Resume Download */}

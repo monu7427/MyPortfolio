@@ -65,7 +65,7 @@ function Header() {
             </Link>
             <div className="flex space-x-4">
           <a
-            href="https://github.com"
+            href="https://github.com/monu7427"
             target="_blank"
             rel="noreferrer"
             className="text-black hover:text-yellow-500 transition duration-300"
@@ -73,7 +73,7 @@ function Header() {
             <FaGithub size="1.5em" />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/manoj-sharma-794399211/"
             target="_blank"
             rel="noreferrer"
             className="text-black hover:text-yellow-500 transition duration-300"
@@ -81,7 +81,7 @@ function Header() {
             <FaLinkedin size="1.5em" />
           </a>
           <a
-            href="mailto:email@example.com"
+            href="mailto:monusharma078607@gmail.com"
             className="text-black hover:text-yellow-500 transition duration-300"
           >
             <FaEnvelope size="1.5em" />

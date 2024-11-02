@@ -28,24 +28,17 @@ function Footer() {
           {/* Contact Info */}
           <div className="flex flex-col items-center md:items-start space-y-2">
             <h3 className="text-xl font-semibold text-yellow-600">Contact</h3>
-            <p className="text-gray-600">+91 9876543210</p>
-            <p className="text-gray-600">manoj.sharma@example.com</p>
+            <p className="text-gray-600">+91 7427895985</p>
+            <p className="text-gray-600">monusharma078607@gmail.com</p>
           </div>
 
           {/* Social Media Links */}
           <div className="flex space-x-4 text-gray-600">
-            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-600 transition">
-              <FaFacebookF size="1.5em" />
-            </a>
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-600 transition">
-              <FaInstagram size="1.5em" />
-            </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-600 transition">
+          
+            <a href="https://www.linkedin.com/in/manoj-sharma-794399211/" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-600 transition">
               <FaLinkedinIn size="1.5em" />
             </a>
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-600 transition">
-              <FaTwitter size="1.5em" />
-            </a>
+           
           </div>
         </div>
 
